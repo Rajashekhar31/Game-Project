@@ -30,9 +30,12 @@ The project uses Node.js >= 6.x and the Create-React-App starter code.
 After Node is installed in your system, follow the below steps.
 
 Navigate to the directory where you want to store the app.
-Clone the repo git clone https://github.com/manishbisht/Games-Arena.git
+Clone the repo git clone https://github.com/Rajashekhar31/Game-Project.git
+
 Now install all modules listed as dependencies in package.json by running the command npm install
+
 Launch the app with this command npm start
+
 A new browser window open automatically displaying the app. If it doesn't, navigate to http://localhost:3000/ in your browser
 
 NOTE: The service workers for this app will only cache the site when it is in production mode.
