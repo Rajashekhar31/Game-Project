@@ -16,8 +16,11 @@ Implement Sort feature (to filter through ‘score’ in ascending and descendin
 Add autocomplete feature to Search games conveniently .
 Custom elegant design, fonts and icons to make web app more user-friendly.
 Use your imagination and add features which would make things easier for end users.
-Games API
-http://starlord.hackerearth.com/gamesarena
+
+
+Games API: http://starlord.hackerearth.com/gamesarena
+
+
 How to run the project in Development Mode
 The project uses Node.js >= 6.x and the Create-React-App starter code.
 
