@@ -54,4 +54,3 @@ Suggestions Suggestions
 
 My website manishbisht.me is https only so click on load the unsafe scripts while checking the demo as the GAMES API is HTTP only.
 
-Error0 Error1
