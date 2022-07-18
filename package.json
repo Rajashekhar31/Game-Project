@@ -16,7 +16,5 @@
     "build": "react-scripts build",
     "deploy": "npm run build&&gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  },
-  "homepage": "https://manishbisht.github.io/Games-Arena"
+    "eject": "react-scripts eject",
 }
